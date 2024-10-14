@@ -1,3 +1,4 @@
+#count parameters
 def albums():
     names = []
     while True:
