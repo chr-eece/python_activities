@@ -1,3 +1,4 @@
+#sort the list
 def albums():
     names = []
     while True:
