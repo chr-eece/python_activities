@@ -1,3 +1,4 @@
+#Create list
 def albums():
     names = []
     while True:
@@ -7,6 +8,5 @@ def albums():
         names.append(name)
     return names
 
-# Run the function and print the names
 albums = albums()
 print("Names you entered:", albums)
